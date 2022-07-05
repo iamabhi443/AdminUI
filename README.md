@@ -1,3 +1,7 @@
+# Admin UI
+
+This app is hosted on https://admin-ui-kappa.vercel.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
